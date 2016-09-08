@@ -1,0 +1,842 @@
+[
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_googleplus.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_googleplus.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_mingdao.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_mingdao.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_platform_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_platform_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_youdao.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_youdao.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_shortmessage.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_shortmessage.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/talk_activity_voice_line.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/talk_activity_voice_line.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/chat_right_qp.9.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/chat_right_qp.9.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mingzikuang.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/mingzikuang.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_douban.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_douban.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_sohusuishenkan_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_sohusuishenkan_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/talk_activity_btn_pin.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/talk_activity_btn_pin.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_back_arr.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/ssdk_back_arr.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_shake_to_share_back.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/ssdk_oks_shake_to_share_back.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_instapaper.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_instapaper.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_actionbar_back_btn.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_actionbar_back_btn.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_renren.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_renren.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/set_rigist_code.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/set_rigist_code.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_foursquare.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_foursquare.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_me.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/tab_me.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/sign_serch.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/sign_serch.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_talk_pre.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/tab_talk_pre.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_whatsapp.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_whatsapp.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_home.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/tab_home.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_neteasemicroblog_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_neteasemicroblog_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_facebook.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_facebook.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_googleplus.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_googleplus.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/personalcenter_frame_2.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/personalcenter_frame_2.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/auth_follow_cb_chd.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/auth_follow_cb_chd.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_instagram.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_instagram.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_linkedin_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_linkedin_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/regetcode.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/regetcode.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/arrow.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/arrow.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_pinterest_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_pinterest_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/blue_point.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/blue_point.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_yixin.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_yixin.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/biaoqian_left_btn.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/biaoqian_left_btn.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_tumblr_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_tumblr_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_twitter.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_twitter.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_dropbox_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_dropbox_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_wechatfavorite_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_wechatfavorite_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_tumblr.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_tumblr.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jiechu_btn.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/jiechu_btn.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tofocus_img.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/tofocus_img.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/fasong_btn.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/fasong_btn.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_renren_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_renren_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_platform_checked_disabled.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_platform_checked_disabled.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_sinaweibo.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_sinaweibo.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_dropbox.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_dropbox.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/chat_fail_resend_normal.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/chat_fail_resend_normal.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_wechat.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_wechat.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_kakaotalk.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_kakaotalk.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_facebookmessenger.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_facebookmessenger.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_qq_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_qq_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/im_voice_pressed.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/im_voice_pressed.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/send_icon.9.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/send_icon.9.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_me_pre.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/tab_me_pre.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_tumblr.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_tumblr.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_neteasemicroblog.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_neteasemicroblog.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_line.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_line.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/duoxuankuang_btn.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/duoxuankuang_btn.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_home_pre.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/tab_home_pre.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_whatsapp.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_whatsapp.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_twitter_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_twitter_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_kaixin_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_kaixin_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_facebookmessenger.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_facebookmessenger.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_email.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_email.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_flickr.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_flickr.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/im_emmotion_pre.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/im_emmotion_pre.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_sohumicroblog.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_sohumicroblog.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_wechatfavorite.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_wechatfavorite.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_sinaweibo.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_sinaweibo.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/talk_activity_btn_camera.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/talk_activity_btn_camera.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_instagram_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_instagram_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/img_cancel.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/img_cancel.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_editpage_image_bg.9.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_editpage_image_bg.9.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_pinterest.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_pinterest.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_bluetooth.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_bluetooth.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/touxiang_frame.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/touxiang_frame.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_evernote.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_evernote.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_tencentweibo.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_tencentweibo.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/pin.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/pin.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/talk_activity_btn_key.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/talk_activity_btn_key.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/title_shadow.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/title_shadow.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/back.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/back.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/set_line.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/set_line.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_kakaostory_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_kakaostory_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/red.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/red.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_qzone.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_qzone.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/talk_activity_voice_1line_l.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/talk_activity_voice_1line_l.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/im_voice_pre.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/im_voice_pre.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_pocket_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_pocket_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_instagram.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_instagram.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_instapaper_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_instapaper_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_flickr_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_flickr_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tochat_img.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/tochat_img.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/chat_voice_bg.9.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/chat_voice_bg.9.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_pocket.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_pocket.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_qq.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_qq.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_tencentweibo.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_tencentweibo.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_kaixin.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_kaixin.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/capture.9.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/capture.9.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_yixin.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_yixin.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/map_point_orange.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/map_point_orange.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_foursquare.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_foursquare.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_title_div.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/ssdk_title_div.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/biaoqian_right_btn.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/biaoqian_right_btn.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_instapaper.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_instapaper.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_facebook_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_facebook_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_renren.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_renren.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_editpage_image_remove.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_editpage_image_remove.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_wechatmoments.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_wechatmoments.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_editpage_divider.9.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_editpage_divider.9.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_vkontakte.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_vkontakte.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/talk_activity_btn_send.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/talk_activity_btn_send.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/im_admore_pre.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/im_admore_pre.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_tencentweibo_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_tencentweibo_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_bluetooth_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_bluetooth_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_wechatmoments.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_wechatmoments.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_pocket.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_pocket.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_kakaotalk_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_kakaotalk_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_logo.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/ssdk_logo.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/auth_follow_cb_unc.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/auth_follow_cb_unc.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_facebookmessenger_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_facebookmessenger_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_youdao.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_youdao.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/baby_kuang.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/baby_kuang.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tocall_img.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/tocall_img.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_evernote.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_evernote.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_kaixin.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_kaixin.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/talk_activity_voice_line_l.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/talk_activity_voice_line_l.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_douban_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_douban_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_sinaweibo_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_sinaweibo_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/add_avatar.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/add_avatar.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_douban.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_douban.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/register_edittext_bg.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/register_edittext_bg.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/shurukuang_1.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/shurukuang_1.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_linkedin.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_linkedin.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_vkontakte_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_vkontakte_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/right.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/right.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/map_point_blue.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/map_point_blue.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_yixin_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_yixin_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/edittext_back.9.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/edittext_back.9.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/search_clear_pressed.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/search_clear_pressed.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/paizhao_btn_1.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/paizhao_btn_1.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_wechat_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_wechat_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_linkedin.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_linkedin.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_line_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_line_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/biaoqian_right_btn_1.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/biaoqian_right_btn_1.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_qzone_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_qzone_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_vkontakte.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_vkontakte.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_sohumicroblog_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_sohumicroblog_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/talk_activity_btn_photo.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/talk_activity_btn_photo.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/talk_activity_voice_2line.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/talk_activity_voice_2line.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_dropbox.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_dropbox.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/register_bg.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/register_bg.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_editpage_close.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_editpage_close.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_twitter.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_twitter.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/light_blue_point.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/light_blue_point.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_yixinmoments_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_yixinmoments_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/chat_fail_resend_press.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/chat_fail_resend_press.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_kakaostory.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_kakaostory.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/attendence_bg.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/attendence_bg.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_evernote_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_evernote_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_back_nor.9.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/btn_back_nor.9.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/textview_bg.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/textview_bg.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/chat_left_qp.9.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/chat_left_qp.9.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_qzone.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_qzone.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_whatsapp_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_whatsapp_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_yaoyiyao.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/ssdk_oks_yaoyiyao.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_editpage_bg.9.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_editpage_bg.9.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_shortmessage_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_shortmessage_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/talk_activity_btn_voice.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/talk_activity_btn_voice.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_sohusuishenkan.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_sohusuishenkan.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_yixinmoments.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_yixinmoments.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/biaoqian_left_btn_1.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/biaoqian_left_btn_1.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_wechatfavorite.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_wechatfavorite.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_wechatmoments_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_wechatmoments_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/add_img.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/add_img.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/qyx.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/qyx.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_shortmessage.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_shortmessage.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_mingdao.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_mingdao.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_googleplus_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_googleplus_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_actionbar_ok_btn.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_actionbar_ok_btn.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_facebook.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_facebook.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_auth_title_back.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_kakaotalk.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_kakaotalk.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/im_emmotion_pressed.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/im_emmotion_pressed.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_wechat.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_wechat.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_yixinmoments.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_yixinmoments.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/talk_activity_voice_1line.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/talk_activity_voice_1line.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_flickr.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_flickr.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/location_arrows.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/location_arrows.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_email.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/logo_email.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_mingdao_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_mingdao_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_email_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_email_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_talk.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/tab_talk.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/duoxuankuang_btn_1.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/duoxuankuang_btn_1.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/auth_title_back.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/auth_title_back.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_kakaostory.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_kakaostory.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/im_admore_pressed.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/im_admore_pressed.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/title_back.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/title_back.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_qq.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_qq.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/chat_time_block.9.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/chat_time_block.9.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_line.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_line.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_youdao_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_youdao_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_foursquare_checked.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_foursquare_checked.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_pinterest.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_pinterest.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_bluetooth.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_bluetooth.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/talk_activity_voice_2line_lpng.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/talk_activity_voice_2line_lpng.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/drawable-xhdpi-v4/skyblue_logo_sohusuishenkan.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/drawable-xhdpi/skyblue_logo_sohusuishenkan.png"
+    }
+]

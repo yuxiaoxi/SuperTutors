@@ -1,0 +1,107 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From SuperTutor:
+* ic_launcher-web.png
+* proguard-project.txt
+* release.keystore
+From dhroid:
+* .gitignore
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+gson-2.2.4.jar => com.google.code.gson:gson:2.2.4
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.2.4.jar => version 2.2.4 in com.google.code.gson:gson:2.2.4
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In dhroid:
+* AndroidManifest.xml => dhroid/src/main/AndroidManifest.xml
+* assets/ => dhroid/src/main/assets
+* libs/httpmime-4.1.1.jar => dhroid/libs/httpmime-4.1.1.jar
+* libs/universal-image-loader-1.9.1.jar => dhroid/libs/universal-image-loader-1.9.1.jar
+* res/ => dhroid/src/main/res/
+* src/ => dhroid/src/main/java/
+In SuperTutor:
+* AndroidManifest.xml => superTutor/src/main/AndroidManifest.xml
+* assets/ => superTutor/src/main/assets/
+* libs/SMSSDK-1.1.7.jar => superTutor/libs/SMSSDK-1.1.7.jar
+* libs/ShareSDK-Core-2.5.7.jar => superTutor/libs/ShareSDK-Core-2.5.7.jar
+* libs/ShareSDK-QQ-2.5.7.jar => superTutor/libs/ShareSDK-QQ-2.5.7.jar
+* libs/ShareSDK-QZone-2.5.7.jar => superTutor/libs/ShareSDK-QZone-2.5.7.jar
+* libs/ShareSDK-ShortMessage-2.5.7.jar => superTutor/libs/ShareSDK-ShortMessage-2.5.7.jar
+* libs/ShareSDK-SinaWeibo-2.5.7.jar => superTutor/libs/ShareSDK-SinaWeibo-2.5.7.jar
+* libs/ShareSDK-TencentWeibo-2.5.7.jar => superTutor/libs/ShareSDK-TencentWeibo-2.5.7.jar
+* libs/ShareSDK-Wechat-2.5.7.jar => superTutor/libs/ShareSDK-Wechat-2.5.7.jar
+* libs/ShareSDK-Wechat-Core-2.5.7.jar => superTutor/libs/ShareSDK-Wechat-Core-2.5.7.jar
+* libs/ShareSDK-Wechat-Favorite-2.5.7.jar => superTutor/libs/ShareSDK-Wechat-Favorite-2.5.7.jar
+* libs/ShareSDK-Wechat-Moments-2.5.7.jar => superTutor/libs/ShareSDK-Wechat-Moments-2.5.7.jar
+* libs/armeabi-v7a/libBaiduMapSDK_v2_3_1.so => superTutor/src/main/jniLibs/armeabi-v7a/libBaiduMapSDK_v2_3_1.so
+* libs/armeabi-v7a/liblocSDK4.so => superTutor/src/main/jniLibs/armeabi-v7a/liblocSDK4.so
+* libs/armeabi-v7a/libsmssdk.so => superTutor/src/main/jniLibs/armeabi-v7a/libsmssdk.so
+* libs/armeabi/libBaiduMapSDK_v2_3_1.so => superTutor/src/main/jniLibs/armeabi/libBaiduMapSDK_v2_3_1.so
+* libs/armeabi/liblocSDK4.so => superTutor/src/main/jniLibs/armeabi/liblocSDK4.so
+* libs/armeabi/libsmssdk.so => superTutor/src/main/jniLibs/armeabi/libsmssdk.so
+* libs/baidumapapi_v2_3_1.jar => superTutor/libs/baidumapapi_v2_3_1.jar
+* libs/locSDK_4.0.jar => superTutor/libs/locSDK_4.0.jar
+* libs/mframework.jar => superTutor/libs/mframework.jar
+* libs/mips/libsmssdk.so => superTutor/src/main/jniLibs/mips/libsmssdk.so
+* libs/x86/libsmssdk.so => superTutor/src/main/jniLibs/x86/libsmssdk.so
+* lint.xml => superTutor/lint.xml
+* res/ => superTutor/src/main/res/
+* src/ => superTutor/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

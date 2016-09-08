@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/item_chat_received_record.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/item_chat_received_record.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/item_listview_home_teacher.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/item_listview_home_teacher.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/xlistview_header.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/xlistview_header.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_start.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_start.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_selfinfo_detail.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_selfinfo_detail.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/item_chat_sent_message.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/item_chat_sent_message.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/skyblue_editpage_inc_image_layout.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/skyblue_editpage_inc_image_layout.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/include_chat_add.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/include_chat_add.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/include_emo_gridview.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/include_emo_gridview.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/skyblue_editpage.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/skyblue_editpage.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/layout_progressdialog.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/exploded-aar/SuperTutor/dhroid/unspecified/res/layout/layout_progressdialog.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/item_chat_received_message.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/item_chat_received_message.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/skyblue_editpage_at_layout.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/skyblue_editpage_at_layout.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/message_list_item_record.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/message_list_item_record.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_userinfo_detail.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_userinfo_detail.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_reset_psw.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_reset_psw.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_set_selfinfo.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_set_selfinfo.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/popwin_big_avatar.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/popwin_big_avatar.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/listitem_popview_poplist.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/listitem_popview_poplist.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/skyblue_share_platform_list_item.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/skyblue_share_platform_list_item.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_home.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_home.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/item_chat_received_image.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/item_chat_received_image.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_myfocus_fans.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_myfocus_fans.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/listview_footer.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/exploded-aar/SuperTutor/dhroid/unspecified/res/layout/listview_footer.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/item_listview_fans_focus.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/item_listview_fans_focus.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_release_job.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_release_job.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_get_job.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_get_job.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_message_record.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_message_record.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/progress.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/progress.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_selectidentity.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_selectidentity.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/notification.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/notification.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_parent_release_info.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_parent_release_info.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_login.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_login.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/pull_to_refresh_header.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/exploded-aar/SuperTutor/dhroid/unspecified/res/layout/pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_mycollect_release.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_mycollect_release.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/viewpager_item_seek_teacher.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/viewpager_item_seek_teacher.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/xlistview_footer.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/xlistview_footer.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/item_chat_sent_record.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/item_chat_sent_record.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_parent_release_detail_info.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_parent_release_detail_info.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_aboutus.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_aboutus.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_binding_phone.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_binding_phone.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/viewpager_item_seek_parent.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/viewpager_item_seek_parent.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_selfinfo.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_selfinfo.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/skyblue_share_actionbar.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/skyblue_share_actionbar.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/include_chat_bottom_bar.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/include_chat_bottom_bar.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/item_listview_parents_release_record.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/item_listview_parents_release_record.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/item_chat_received_location.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/item_chat_received_location.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/item_chat_sent_location.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/item_chat_sent_location.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_advice.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_advice.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_parent_release_record.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_parent_release_record.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_resetlocation.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_resetlocation.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_main.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_main.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/poilist_popview.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/poilist_popview.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_setting.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_setting.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/item_chat_sent_image.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/item_chat_sent_image.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/item_listview_home_parent.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/item_listview_home_parent.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/skyblue_share_platform_list.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/skyblue_share_platform_list.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/act_singlechat.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/act_singlechat.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/res/merged/debug/layout/item_face_text.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/src/main/res/layout/item_face_text.xml"
+    }
+]

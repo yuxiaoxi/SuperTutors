@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="/Users/yuzhuo/Desktop/bbg/SuperTutor/dhroid/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/Users/yuzhuo/Desktop/bbg/SuperTutor/dhroid/src/androidTest/assets"/><source path="/Users/yuzhuo/Desktop/bbg/SuperTutor/dhroid/build/generated/assets/shaders/androidTest/debug"/></dataSet></merger>

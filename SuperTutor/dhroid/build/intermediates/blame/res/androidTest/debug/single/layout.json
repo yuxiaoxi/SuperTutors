@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/dhroid/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/dhroid/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/dhroid/build/intermediates/res/merged/androidTest/debug/layout/layout_progressdialog.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/dhroid/build/intermediates/bundles/debug/res/layout/layout_progressdialog.xml"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/dhroid/build/intermediates/res/merged/androidTest/debug/layout/listview_footer.xml",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/dhroid/build/intermediates/bundles/debug/res/layout/listview_footer.xml"
+    }
+]

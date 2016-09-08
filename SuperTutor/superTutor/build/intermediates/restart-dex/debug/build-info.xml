@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="420dpi"
+    format="7"
+    timestamp="2775695413216"
+    token="-1576658056143852659" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/outputs/apk/superTutor-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="2775695413216" >
+        <artifact
+            location="/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/outputs/apk/superTutor-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

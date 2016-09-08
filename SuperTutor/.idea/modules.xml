@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SuperTutor.iml" filepath="$PROJECT_DIR$/SuperTutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dhroid/dhroid.iml" filepath="$PROJECT_DIR$/dhroid/dhroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superTutor/superTutor.iml" filepath="$PROJECT_DIR$/superTutor/superTutor.iml" />
+    </modules>
+  </component>
+</project>

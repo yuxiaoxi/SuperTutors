@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F8F8"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#F8F8F8"
+        android:orientation="vertical"
+        android:weightSum="8" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="49dp"
+            android:background="@color/app_style" >
+
+            <LinearLayout
+                android:id="@+id/selfinfo_detail_linear_back"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/back" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="返回"
+                    android:textColor="@color/white"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="我的资料"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.67dp"
+            android:background="#FE4101" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2.2"
+            android:background="@color/app_style"
+            android:orientation="vertical"
+            android:weightSum="1" >
+
+            <net.duohuo.dhroid.view.megwidget.CircleImageView
+                android:id="@+id/selfinfo_detail_img_avatar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="14dp"
+                android:adjustViewBounds="true"
+                android:src="@drawable/qyx" />
+
+            <TextView
+                android:visibility="gone"
+                android:id="@+id/selfinfo_detail_txt_nickname"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:text="东方不败"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.67dp"
+            android:background="@color/line_bg" />
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="3.5"
+            android:background="@color/white" >
+
+            <LinearLayout
+                android:id="@+id/selfinfo_detail_linear_tea"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/white"
+                android:orientation="vertical"
+                android:weightSum="3" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="0.5"
+                    android:background="@color/white"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="center|right"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="5dp"
+                            android:text="我的位置"
+                            android:textColor="#787878"
+                            android:textSize="15sp" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="2.5"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/selfinfo_detail_txt_location"
+                                android:layout_width="fill_parent"
+                                android:layout_height="0dp"
+                                android:layout_gravity="center|left"
+                                android:layout_weight="1"
+                                android:gravity="center|left"
+                                android:paddingLeft="5dp"
+                                android:paddingRight="10dp"
+                                android:singleLine="true"
+                                android:text=""
+                                android:textColor="#3D4245"
+                                android:textSize="15sp" />
+
+                            <View
+                                android:layout_width="fill_parent"
+                                android:layout_height="0.67dp"
+                                android:background="@color/line_bg" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="0.5"
+                    android:background="@color/white"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="center|right"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="5dp"
+                            android:text="毕业院校"
+                            android:textColor="#787878"
+                            android:textSize="15sp" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="2.5"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/selfinfo_detail_txt_school"
+                                android:layout_width="fill_parent"
+                                android:layout_height="0dp"
+                                android:layout_gravity="center|left"
+                                android:layout_weight="1"
+                                android:gravity="center|left"
+                                android:paddingLeft="5dp"
+                                android:paddingRight="10dp"
+                                android:singleLine="true"
+                                android:text=""
+                                android:textColor="#3D4245"
+                                android:textSize="15sp" />
+
+                            <View
+                                android:layout_width="fill_parent"
+                                android:layout_height="0.67dp"
+                                android:background="@color/line_bg" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="0.5"
+                    android:background="@color/white"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="center|right"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="5dp"
+                            android:text="学历"
+                            android:textColor="#787878"
+                            android:textSize="15sp" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="2.5"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/selfinfo_detail_txt_education"
+                                android:layout_width="fill_parent"
+                                android:layout_height="0dp"
+                                android:layout_gravity="center|left"
+                                android:layout_weight="1"
+                                android:gravity="center|left"
+                                android:paddingLeft="5dp"
+                                android:paddingRight="10dp"
+                                android:singleLine="true"
+                                android:text=""
+                                android:textColor="#3D4245"
+                                android:textSize="15sp" />
+
+                            <View
+                                android:layout_width="fill_parent"
+                                android:layout_height="0.67dp"
+                                android:background="@color/line_bg" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="0.5"
+                    android:background="@color/white"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="center|right"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="5dp"
+                            android:text="专业"
+                            android:textColor="#787878"
+                            android:textSize="15sp" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="2.5"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/selfinfo_detail_txt_professional"
+                                android:layout_width="fill_parent"
+                                android:layout_height="0dp"
+                                android:layout_gravity="center|left"
+                                android:layout_weight="1"
+                                android:gravity="center|left"
+                                android:paddingLeft="5dp"
+                                android:paddingRight="10dp"
+                                android:singleLine="true"
+                                android:text=""
+                                android:textColor="#3D4245"
+                                android:textSize="15sp" />
+
+                            <View
+                                android:layout_width="fill_parent"
+                                android:layout_height="0.67dp"
+                                android:background="@color/line_bg" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="0.5"
+                    android:background="@color/white"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="center|right"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="5dp"
+                            android:text="辅导科目"
+                            android:textColor="#787878"
+                            android:textSize="15sp" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="2.5"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/selfinfo_detail_txt_course"
+                                android:layout_width="fill_parent"
+                                android:layout_height="0dp"
+                                android:layout_gravity="center|left"
+                                android:layout_weight="1"
+                                android:gravity="center|left"
+                                android:paddingLeft="5dp"
+                                android:paddingRight="10dp"
+                                android:singleLine="true"
+                                android:text=""
+                                android:textColor="#3D4245"
+                                android:textSize="15sp" />
+
+                            <View
+                                android:layout_width="fill_parent"
+                                android:layout_height="0.67dp"
+                                android:background="@color/line_bg" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="0.5"
+                    android:background="@color/white"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="center|right"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="5dp"
+                            android:text="课时费"
+                            android:textColor="#787878"
+                            android:textSize="15sp" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="2.5"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/selfinfo_detail_txt_salary"
+                                android:layout_width="fill_parent"
+                                android:layout_height="0dp"
+                                android:layout_gravity="center|left"
+                                android:layout_weight="1"
+                                android:gravity="center|left"
+                                android:paddingLeft="5dp"
+                                android:paddingRight="10dp"
+                                android:singleLine="true"
+                                android:text=""
+                                android:textColor="@color/app_style"
+                                android:textSize="15sp" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:visibility="gone"
+                android:id="@+id/selfinfo_detail_linear_stu"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/white"
+                android:orientation="vertical"
+                android:weightSum="4" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@color/white"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="center|right"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="5dp"
+                            android:text="我的位置"
+                            android:textColor="#787878"
+                            android:textSize="18sp" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="2.5"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/selfinfo_detail_txt_location_stu"
+                                android:layout_width="fill_parent"
+                                android:layout_height="0dp"
+                                android:layout_gravity="center|left"
+                                android:layout_weight="1"
+                                android:gravity="center|left"
+                                android:paddingLeft="5dp"
+                                android:paddingRight="10dp"
+                                android:singleLine="true"
+                                android:text=""
+                                android:textColor="@color/app_style"
+                                android:textSize="18sp" />
+
+                            <View
+                                android:layout_width="fill_parent"
+                                android:layout_height="0.67dp"
+                                android:background="@color/line_bg" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@color/white"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="center|right"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="5dp"
+                            android:text="年级"
+                            android:textColor="#787878"
+                            android:textSize="18sp" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="2.5"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/selfinfo_detail_txt_grade_stu"
+                                android:layout_width="fill_parent"
+                                android:layout_height="0dp"
+                                android:layout_gravity="center|left"
+                                android:layout_weight="1"
+                                android:gravity="center|left"
+                                android:paddingLeft="5dp"
+                                android:paddingRight="10dp"
+                                android:singleLine="true"
+                                android:text=""
+                                android:textColor="@color/app_style"
+                                android:textSize="18sp" />
+
+                            <View
+                                android:layout_width="fill_parent"
+                                android:layout_height="0.67dp"
+                                android:background="@color/line_bg" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@color/white"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="center|right"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="5dp"
+                            android:text="辅导课程"
+                            android:textColor="#787878"
+                            android:textSize="18sp" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="2.5"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/selfinfo_detail_txt_course_stu"
+                                android:layout_width="fill_parent"
+                                android:layout_height="0dp"
+                                android:layout_gravity="center|left"
+                                android:layout_weight="1"
+                                android:gravity="center|left"
+                                android:paddingLeft="5dp"
+                                android:paddingRight="10dp"
+                                android:singleLine="true"
+                                android:text=""
+                                android:textColor="@color/app_style"
+                                android:textSize="18sp" />
+
+                            <View
+                                android:layout_width="fill_parent"
+                                android:layout_height="0.67dp"
+                                android:background="@color/line_bg" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@color/white"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="center|right"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="5dp"
+                            android:text="课时费"
+                            android:textColor="#787878"
+                            android:textSize="18sp" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center|left"
+                            android:layout_weight="2.5"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/selfinfo_detail_txt_salary_stu"
+                                android:layout_width="fill_parent"
+                                android:layout_height="0dp"
+                                android:layout_gravity="center|left"
+                                android:layout_weight="1"
+                                android:gravity="center|left"
+                                android:paddingLeft="5dp"
+                                android:paddingRight="10dp"
+                                android:singleLine="true"
+                                android:text=""
+                                android:textColor="@color/app_style"
+                                android:textSize="18sp" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </FrameLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.67dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/line_bg" />
+
+        <TextView
+            android:id="@+id/selfinfo_detail_txt_other"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.4"
+            android:background="@color/white"
+            android:lines="3"
+            android:maxLength="60"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="5dp"
+            android:text=""
+            android:textColor="#3D4245"
+            android:textSize="16sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.67dp"
+            android:background="@color/line_bg" />
+    </LinearLayout>
+
+</LinearLayout>

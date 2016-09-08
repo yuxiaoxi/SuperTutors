@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:background="@color/app_style" >
+
+        <LinearLayout
+            android:id="@+id/about_us_linear_back"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/back" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center"
+                android:layout_marginLeft="5dp"
+                android:text="返回"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="关于我们"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:text="      边边购，是由一群怀揣梦想的西安交大研究生和部分社会人士成立的一家创新型公司，专注于校内二手交易市场的开拓和研究，以节约资源和促进物品的循环利用为出发点，根据学校市场的特点，为广大学生定制服务，可以让学生方便，安全地买卖二手物品，使我们成为最符合学生实际需要的专业校内二手物品信息服务和交易平台。"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+     <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="left"
+        android:padding="10dp"
+        android:text="     与此同时，我们会不断地为学生提供锻炼和挣钱的机会，目前已开通的学生兼职有“校园代理”职位，但后续会更多，请同学们及时关注我们“边边购”！
+"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/dhroid/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/pulltorefresh_down_arrow.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/dhroid/build/intermediates/bundles/debug/res/drawable-hdpi-v4/pulltorefresh_down_arrow.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/SuperTutor/dhroid/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/pulltorefresh_up_arrow.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/SuperTutor/dhroid/build/intermediates/bundles/debug/res/drawable-hdpi-v4/pulltorefresh_up_arrow.png"
+    }
+]

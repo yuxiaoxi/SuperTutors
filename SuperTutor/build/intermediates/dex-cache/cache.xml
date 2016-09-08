@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="722214881e2e092b2705c9e60934b0318082f4e7">
+        <dex dex="/Users/yuzhuo/Desktop/bbg/SuperTutor/superTutor/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_019db13577cd4777c696ee33586c867ad9e29837/classes.dex" />
+    </item>
+
+</items>

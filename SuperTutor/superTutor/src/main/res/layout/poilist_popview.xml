@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/app_style"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/ztgame_return_popview"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="35dp"
+                android:background="@drawable/back" />
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/ztgame_edit_popview"
+            android:layout_width="0dp"
+            android:layout_marginTop="27dp"
+            android:layout_marginBottom="14dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:layout_marginRight="50dp"
+            android:layout_weight="3"
+            android:paddingLeft="8dp"
+            android:background="@drawable/set_line"
+            android:gravity="left|center"
+            android:hint="输入地点"            
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textSize="14sp" >
+        </EditText>
+    </LinearLayout>
+
+    <ListView
+        android:layout_marginTop="5dp"
+        android:id="@+id/ztgame_list_popview"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:scrollbars="none" >
+    </ListView>
+
+</LinearLayout>
